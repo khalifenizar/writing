@@ -20,3 +20,9 @@ Sniper is a character in Team Fortress 2:
 
 - http://www.teamfortress.com/classes.php?class=sniper
 - http://www.teamfortress.com/post.php?id=9574
+
+Jarate is "jar-based karate," i.e. using jars filled with pee for fighting. This comes from the fact that Sniper, being a sniper, waits around for targets in the same spot for extended periods of time and has nowhere else to pee:
+
+- http://wiki.teamfortress.com/wiki/Jarate
+- http://wiki.teamfortress.com/wiki/File:Peejar.jpg
+- http://wiki.teamfortress.com/wiki/File:07_comic_large.jpg
