@@ -10,9 +10,14 @@ I'm writing to apply for the position of *Senior Software Engineer—Web Applica
 >
 > —Sniper
 
-Anyway, I do browser, server and command-line progamming in `JavaScript`/`node.js` (my favorite), `PHP` and `Python`. I've been writing software professionally to varying degrees for 7 years, of which the last 3 have been particularly intensive. Here are some links where you can find out more about who I am and what I do. Hire me!
+Anyway, I do browser, server and command-line progamming in `JavaScript`/`node.js` (my favorite), `PHP` and `Python`. I've been writing software professionally to varying degrees for 7 years, of which the last 3 have been particularly intensive. Here are some links where you can find out more about who I am and what I do:
 
 LINKS
+
+I'm also a gamer and have been a fan of Valve since I bought the Orange Box for PC way back in 2007. For me, Valve's success has not just been about the quality games you have put out, but also the excellent *systems* you have built to surround and support yours and other games (systems I hope to contribute to in the near future). You guys are awesome!
+
+All that said, please hire me!
+
 
 ### Notes for reviewers ###
 
