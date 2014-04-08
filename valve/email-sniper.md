@@ -1,6 +1,6 @@
 Dear Valve,
 
-I'm writing to apply for the position of *Senior Software Engineer—Web Applications*. I don't want to take up much of your time, but here's an interesting message sent by someone I believe you are familiar with before his *untimely*... accident. Right, accident.
+I'm writing to apply for the position of *Senior Software Engineer—Web Applications*. I don't want to take up much of your time, but here's an interesting message written by someone I believe you were familiar with. It was sent before his *untimely*... accident. Right, accident.
 
 > Dear [REDACTED],
 >
