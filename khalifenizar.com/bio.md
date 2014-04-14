@@ -1,7 +1,7 @@
 About Nizar
 ===========
 
-I'm Nizar and I'm a Web developer. I write code for the browser, server and command-line. So far I've done this (competently at least) in `JavaScript` / `node.js`, `PHP` and `Python`. I've been doing it for `AMOUNT` years now. I've also written a little `Objective-C` for iOS apps, but I'm pretty rusty.
+I'm Nizar and I'm a Web developer. I write code for the browser, server and command-line. So far I've done this (competently at least) in `JavaScript` / `node.js`, `PHP` and `Python`. I've been doing it for `AMOUNT` years now.
 
 I like working as part of a team of people I get along with. To me teamwork is fundamentally a dialogue and, as a team member, I care about how myself and others communicate. I try to be polite, funny and, above all, empathetic. When I get really frustrated I curse in Spanish.
 
